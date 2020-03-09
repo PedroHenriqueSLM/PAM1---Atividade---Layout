@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PAM1 -Atividade - Layout</string>
+    <string name="tipoGasto">Tipo gasto: </string>
+    <string name="receberValor">Valor</string>
+    <string name="receberData">Data</string>
+    <string name="receberDescricao">Descrição:</string>
+    <string name="receberLocal">Local:</string>
+    <string name="selecione">Selecione</string>
+    <string name="salvar">Salvar</string>
 </resources>
