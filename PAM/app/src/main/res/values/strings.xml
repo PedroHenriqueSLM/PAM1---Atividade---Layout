@@ -7,4 +7,6 @@
     <string name="receberLocal">Local:</string>
     <string name="selecione">Selecione</string>
     <string name="salvar">Salvar</string>
+    <string name="dataUm">Data 1:</string>
+    <string name="dataDois">Data 2:</string>
 </resources>

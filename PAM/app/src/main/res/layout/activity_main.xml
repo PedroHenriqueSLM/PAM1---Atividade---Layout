@@ -76,7 +76,6 @@
         android:layout_marginTop="44dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
         app:layout_constraintStart_toStartOf="@+id/textView4"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
@@ -96,7 +95,6 @@
         android:layout_marginTop="44dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
         app:layout_constraintStart_toStartOf="@+id/textView5"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
